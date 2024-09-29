@@ -1,2 +1,7 @@
 # LITA-Class-Documentation
-My first documentation file while learning Data Analysis with the Incubator Hub
+
+My first Journey in becoming an analyst started with the introduction to data analysis,which of course was a theory aspect where i was informed of what data analysis was all about.
+
+## INTRODUCTION TO BASIC EXCEL
+## TOOLS USED
+- Microsoft Excel [Dowload Here](https://www.microsoftexcel.com)
