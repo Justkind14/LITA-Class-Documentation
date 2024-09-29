@@ -5,3 +5,5 @@ My first Journey in becoming an analyst started with the introduction to data an
 ## INTRODUCTION TO BASIC EXCEL
 ## TOOLS USED
 - Microsoft Excel [Download Here](https://www.microsoft.com)
+
+## DATA VISUALIZATION
