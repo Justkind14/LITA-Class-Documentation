@@ -107,10 +107,66 @@ Excel is a spreadsheet software used for data manipulation and analysis.
 
 #### Key Excel Functions*
 
-- SUMIFS
-- VLOOKUP
-- INDEX/MATCH
-- Pivot tables
+##### Arithmetic Functions
+
+1. _SUM_: Calculates the sum of cells.
+Example: `=SUM(A1:A10)`
+2. _AVERAGE_: Calculates the average of cells.
+Example: `=AVERAGE(A1:A10)`
+3. _COUNT_: Counts the number of cells with numbers.
+Example: `=COUNT(A1:A10)`
+4. _MAX/MIN_: Returns the maximum/minimum value.
+Example: `=MAX(A1:A10)`, `=MIN(A1:A10)`
+
+
+##### Lookup Functions
+
+1. _VLOOKUP_: Looks up a value in a table and returns a corresponding value.
+Example: `=VLOOKUP(A2, B:C, 2, FALSE)`
+    - Used for: Retrieving data from a table based on a unique identifier.
+    - 
+##### Data Analysis Functions
+
+1. _PIVOTTABLE_: Summarizes and analyzes large datasets.
+Example: `=PIVOTTABLE(A1:C100)`
+    - Used for: Reporting, data summarization, and analysis.
+2. _GROUPBY_: Groups data by categories.
+Example: `=GROUPBY(A1:C100, "Category")`
+    - Used for: Data aggregation and analysis.
+
+
+##### Text Functions
+
+1. _LOWER/UPPER_: Converts text to lowercase/uppercase.
+Example: `=LOWER(A1)`, `=UPPER(A1)`
+2. _TRIM_: Removes spaces from text.
+Example: `=TRIM(A1)`
+3. _CONCATENATE_: Joins text strings.
+Example: `=CONCATENATE(A1, B1)`
+
+##### Logical Functions
+
+1. _IF_: Tests conditions and returns a value.
+Example: `=IF(A1>10, "True", "False")`
+2. _IFS_: Tests multiple conditions and returns a value.
+Example: `=IFS(A1, ">10", "True", "False")`
+
+##### Data Validation Functions
+
+1. _DATA_VALIDATION_: Restricts input data.
+Example: `=DATA_VALIDATION(A1, "Integer")`
+2. _VALIDATE_: Checks if data meets conditions.
+Example: `=VALIDATE(A1, ">10")`
+
+
+##### Best Practices
+
+1. _Organize Data_: Structure data logically.
+2. _Use Formulas_: Instead of hardcoding values.
+3. _Format Cells_: Consistently format cells.
+4. _Document Work_: Use comments and notes.
+
+
 
 Excel Benefits
 
