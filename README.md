@@ -103,7 +103,7 @@ Examples:
 - Customer feedback
 
 
-### INTRODUCTION TO BASIC EXCEL [Download Here]
+### INTRODUCTION TO BASIC EXCEL [Download Here] (https://www.microsoft.com)
 
 Excel is a spreadsheet software used for data manipulation and analysis.
 
@@ -175,6 +175,6 @@ Example: `=VALIDATE(A1, ">10")`
 - Easy data manipulation
 - Flexible data analysis
 - Wide range of formulas and functions
-- Microsoft Excel [Download Here](https://www.microsoft.com)
+
 
 ## DATA VISUALIZATION
