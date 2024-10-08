@@ -1,4 +1,4 @@
-# LITA-Class-Documentation
+I# LITA-Class-Documentation
 
 My first journey in becoming an analyst started with the introduction to data analysis, which laid the foundation for my future growth. 
 The key tools used in the training are:
@@ -178,3 +178,7 @@ Example: `=VALIDATE(A1, ">10")`
 
 
 ## DATA VISUALIZATION
+... SQL
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
+...
