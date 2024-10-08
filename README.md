@@ -3,9 +3,9 @@
 My first journey in becoming an analyst started with the introduction to data analysis, which laid the foundation for my future growth. 
 The key tools used in the training are:
 
-#### 1) Microsoft Excel
-#### 2) SQL (Structured Query Language)
-#### 3) GitHub
+#### 1) Microsoft Excel for Data Cleaning, Analysis and Visualization
+#### 2) SQL - Structured Query Language for Querying of Data
+#### 3) GitHub for Portfolio Building
 #### 4) Powerbi (Business Intelligence)
 
 ## INTRODUCTION TO DATA ANALYSIS
