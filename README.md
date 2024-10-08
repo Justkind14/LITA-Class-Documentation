@@ -1,10 +1,10 @@
 # LITA-Class-Documentation
 
-My first journey in becoming an analyst started with the introduction to data analysis, which laid the foundation for my future growth. The table of contents for the program includes:
+My first journey in becoming an analyst started with the introduction to data analysis, which laid the foundation for my future growth. The key tools used includes:
 
-1) Microsoft Excel
-2) SQL (Structured Query Language)
-3) Powerbi (Business Intelligence)
+#### 1) Microsoft Excel
+#### 2) SQL (Structured Query Language)
+#### 3) Powerbi (Business Intelligence)
 
 ## INTRODUCTION TO DATA ANALYSIS
 
@@ -101,10 +101,22 @@ m## Ways to Collect Data
 - Customer feedback
 
 
-## INTRODUCTION TO BASIC EXCEL
+### INTRODUCTION TO BASIC EXCEL
 
+Excel is a spreadsheet software used for data manipulation and analysis.
 
-## TOOLS USED
+#### Key Excel Functions*
+
+- SUMIFS
+- VLOOKUP
+- INDEX/MATCH
+- Pivot tables
+
+Excel Benefits
+
+- Easy data manipulation
+- Flexible data analysis
+- Wide range of formulas and functions
 - Microsoft Excel [Download Here](https://www.microsoft.com)
 
 ## DATA VISUALIZATION
