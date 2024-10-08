@@ -1,10 +1,12 @@
 # LITA-Class-Documentation
 
-My first journey in becoming an analyst started with the introduction to data analysis, which laid the foundation for my future growth. The key tools used includes:
+My first journey in becoming an analyst started with the introduction to data analysis, which laid the foundation for my future growth. 
+The key tools used in the training are:
 
 #### 1) Microsoft Excel
 #### 2) SQL (Structured Query Language)
-#### 3) Powerbi (Business Intelligence)
+#### 3) GitHub
+#### 4) Powerbi (Business Intelligence)
 
 ## INTRODUCTION TO DATA ANALYSIS
 
@@ -37,9 +39,9 @@ Industries that Heavily Rely on Data Analysis
 
 Types of Data and Data Collection
 
-## Types of Data
+#### Types of Data
 
-### STRUCTURED DATA
+##### STRUCTURED DATA
 - Organized and formatted data
 - Easily searchable and machine-readable
 - Typically stored in databases, spreadsheets, or tables
@@ -51,7 +53,7 @@ Examples:
 | John | 30  | 123 Main St  |
 | Jane | 25  | 456 Elm St   |
 
-### UNSTRUCTURED DATA
+##### UNSTRUCTURED DATA
 - Unorganized and unformatted data
 - Difficult for machines to read and analyze
 - Typically stored as text, images, videos, or audio files
@@ -69,7 +71,7 @@ Examples:
 - Audio files:
     - Podcast episodes
 
-### SEMI-STRUCTURED DATA
+##### SEMI-STRUCTURED DATA
 
 - Partially organized data with some structure
 - May contain tags, labels, or metadata
@@ -159,7 +161,7 @@ Example: `=DATA_VALIDATION(A1, "Integer")`
 Example: `=VALIDATE(A1, ">10")`
 
 
-##### Best Practices
+### Best Practices of Excel
 
 1. _Organize Data_: Structure data logically.
 2. _Use Formulas_: Instead of hardcoding values.
@@ -168,7 +170,7 @@ Example: `=VALIDATE(A1, ">10")`
 
 
 
-Excel Benefits
+### Excel Benefits
 
 - Easy data manipulation
 - Flexible data analysis
