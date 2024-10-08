@@ -95,7 +95,7 @@ Examples:
 - Unstructured data: Non-tabular, unorganized, and difficult to analyze
 - Semi-structured data: Partially organized, with some structure and metadata
 
-m## Ways to Collect Data
+### Ways to Collect Data
 
 - Surveys
 - Sensors
