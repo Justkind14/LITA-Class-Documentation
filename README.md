@@ -103,7 +103,7 @@ Examples:
 - Customer feedback
 
 
-### INTRODUCTION TO BASIC EXCEL [Download Here] (https://www.microsoft.com)
+### INTRODUCTION TO BASIC EXCEL [Download Here](https://www.microsoft.com)
 
 Excel is a spreadsheet software used for data manipulation and analysis.
 
